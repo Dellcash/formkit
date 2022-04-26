@@ -79,6 +79,11 @@ const submitHandler = async () => {
 	width: 23rem;
 }
 
+.formkit-input {
+	font-family: "Courier New", Courier, monospace !important;
+	color: #fff !important;
+}
+
 [data-type="submit"] .formkit-input {
 	width: 100% !important;
 	margin: 0 !important;
